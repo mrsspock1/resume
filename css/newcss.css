@@ -5,6 +5,7 @@
 	float: left;
 	margin-right: 60px;
 	margin-left: 60px;
+	padding-top: 25px;
 }
 #image img {
 	width: 100%;
@@ -19,7 +20,7 @@
 }
 
 .mainDetails {
-	padding: 20px 35px;
+	padding: 20px 20px;
 	border-bottom: 2px solid #A9A9A9;
 	background: #66CDAA;
 }
@@ -42,8 +43,8 @@
 	color: #A9A9A9;
 }
 #mainArea {
-	padding: 40px;
-	padding-top: 50px;
+	padding: 35px;
+	padding-top: 35px;
 }
 .section-title {
 	float: left;
@@ -101,6 +102,7 @@
 }
 .btn-default{
 	font-family: 'Cuprum', sans-serif;
+	
 }
 .panel-footer{
 	font-size: 0.8em;
