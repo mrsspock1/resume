@@ -1,0 +1,47 @@
+.btn-download{
+	margin-top: 6px;
+}
+.section-name{
+	font-family: 'Archivo Black', sans-serif;
+	margin-top: 5px;
+	background: #66CDAA 75%;
+}
+.section-name h3{
+	margin-top:10px;
+}
+.section-personal-data{
+	margin-top: 10px;
+}
+.row-border{
+	border: 5px;
+	box-shadow: 1px 1px 10px #000;
+	padding: 8px 0;
+	margin-top: 5px;
+	font-family: 'Archivo Black', sans-serif;
+}
+.row-border .lead{
+	margin-bottom: 0;
+	padding: 8px 0;
+
+}
+.glyphicon{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.col-md-2{
+	padding:20px;
+}
+.col-md-6{
+	padding: 20px;
+}
+.col-md-12{
+	padding: 20px;
+}
+.my-photo{
+	width: 200px;
+	position: relative;
+	z-index:100;
+}
+
+.col-md-8{
+}

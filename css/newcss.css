@@ -1,0 +1,116 @@
+
+.clear {clear: both;}
+#image {
+	width: 20%;
+	float: left;
+	margin-right: 60px;
+	margin-left: 60px;
+}
+#image img {
+	width: 100%;
+	height: auto;
+	clear:both;
+}
+#cv {
+	width: 100%;
+	max-width: 1000px;
+	background: #f3f3f3;
+	margin: 30px auto;
+}
+
+.mainDetails {
+	padding: 20px 35px;
+	border-bottom: 2px solid #A9A9A9;
+	background: #66CDAA;
+}
+#name {
+	font-size: 5em;
+	font-weight: 700;
+	font-family: 'Passion One', cursive;
+	margin-bottom: -6px;
+	margin-left: 30px;
+}
+
+#contactDetails ul li {
+	list-style-type: none;
+	font-size: 1.5em;
+	margin-top: 2px;
+	font-family: 'Passion One', cursive;
+	overflow: hidden;
+}
+#contactDetails ul li a:hover { 
+	color: #A9A9A9;
+}
+#mainArea {
+	padding: 40px;
+	padding-top: 50px;
+}
+.section-title {
+	float: left;
+	width: 25%;
+	padding-right: 10px;
+}
+
+.section-content {
+	float: right;
+	width: 72.5%;
+	padding-left: 30px;
+}
+
+.section-title h1 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 1.5em;
+}
+
+.section-content h2 {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 1.5em;
+	margin-bottom: -2px;
+}
+.glyphicon{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.details {
+	font-size: 0.8em;
+	font-style: italic;
+	margin-bottom: 3px;
+}
+.interests {
+	list-style-type: none;
+	-moz-column-count:3;
+	-webkit-column-count:3;
+	column-count:3;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 1em;
+	color: #444;
+}
+
+.interests ul li {
+	margin-bottom: 3px;
+	margin-left: 0;
+}
+.progress-bar{
+	font-family: 'Cuprum', sans-serif;
+	background-color: #66CDAA;
+}
+.col-md-4{
+	margin-top: 6px;
+	float: right;
+}
+.btn-default{
+	font-family: 'Cuprum', sans-serif;
+}
+.panel-footer{
+	font-size: 0.8em;
+	height: -20px;
+}
+a[href^="mailto"] { 
+	color: 	#444; 
+}
+
+a[href^="http"] { 
+	color: 	#444; 
+}
+
