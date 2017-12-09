@@ -5,7 +5,7 @@
 	float: left;
 	margin-right: 60px;
 	margin-left: 60px;
-	padding-top: 25px;
+	padding-top: 10px;
 }
 #image img {
 	width: 100%;
@@ -23,6 +23,7 @@
 	padding: 20px 20px;
 	border-bottom: 2px solid #A9A9A9;
 	background: #66CDAA;
+	height: 310px;
 }
 #name {
 	font-size: 5em;
